@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/home/ulcom32/.gradle/caches/transforms-2/files-2.1/387117f4be8314babc2a3ffb8595fc18/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    }
+                }
+            ]
+        }
+    ]
+}

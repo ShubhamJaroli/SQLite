@@ -1,0 +1,261 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_masked-view] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-sqlite-storage] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/react-native-sqlite-storage/platforms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/3a985c095034a69dc97c93f22a86882f/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/083c86ff31700f261eb97bec4c324109/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/ace72d67c0e25a868f6e0bf6551991a3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/387117f4be8314babc2a3ffb8595fc18/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/fddaaa5add45e27fa4975b16e1c3bde2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/fc747de1a43ba427fad43e156722b579/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/ed539736b2c4a82415f979c11be5c3ee/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/e38820f418b363a2c1d47b6af6d7e01f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/eac79697dcd56e9fd70478dad8fc79fb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/cc22feda334d594b4681ad40ddc9b737/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/47e725b4a4b5b36a9f8d2a2641832657/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/df64c1eaf8591888e201b3b24b7337f6/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/b532594e7fb351b8c5e19010c14345a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/f1338524c97ec164918545d54c15dc52/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/c271773bacee3292482b10a911823824/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/a48b93830c95af8fbbf4f40286a01b5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/7d9bf6eb2d1b0ff03a9fc1e766c46811/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/dc3b5ccdbf310c1ba8db541ee2782afc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/2d171a86a979de240e06c8310a01a733/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/c01f039a80889826f94ffdcdb50b7f94/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/b0cd644e3bde92ad29910bf3ef2e056c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/11169166496eb52142d072678b37ecb0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/7b33dddb674daa4d1fbdbaf7b95aca4e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/34e1b7f951ed7bcd838e8863376d70f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/ccbc5327e7497f67926b229c2cbc35c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/549cd840fda21de952ec9c78a3d36be7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/1e103002757eb928baf29c98eda36184/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/a16b45ed712c3572c298e35c94fb948e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/860f07a0dd2003355a95088237fa100e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/eac63a45a0647f04a22fed4cf9c5ea91/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/b27913530de9e8883a2eaf23921b51e2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/76eb7ad39f4e673da3916f07ae5466c6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/246c55e7f9de696cf977917c1798db00/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/e541bc8aec259dd185193354a466402f/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/be8ebbf524639f4a6ae96a5e738f7405/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/42f6bfa23798fdff22253cc119802d31/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/89ffdee8c43c56c4769cc48389c875a8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/77132f2b059876aa5043e6d33a1a7bc5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/ca161aa8d65a6ffd89136463cf424808/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/07c341ab037f418de7fde9f9e3aacb39/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/001e9d70ee616d977884e5edabf01b32/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/fbbcba19e4f4b6856d70dfcc4533ed62/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/6a59111c4b930a37caa3f28888ee85c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/12c1978948a8a9e1df73111cf9277677/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/3a985c095034a69dc97c93f22a86882f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/3a985c095034a69dc97c93f22a86882f/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/ace72d67c0e25a868f6e0bf6551991a3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/ace72d67c0e25a868f6e0bf6551991a3/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/df64c1eaf8591888e201b3b24b7337f6/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/df64c1eaf8591888e201b3b24b7337f6/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/b27913530de9e8883a2eaf23921b51e2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/b27913530de9e8883a2eaf23921b51e2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/e541bc8aec259dd185193354a466402f/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/e541bc8aec259dd185193354a466402f/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/b27913530de9e8883a2eaf23921b51e2/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.sqllite.MainActivity
+ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_masked-view] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sqlite-storage] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/react-native-sqlite-storage/platforms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sqlite-storage] /home/ulcom32/Desktop/Work/24jan/sqlLite/node_modules/react-native-sqlite-storage/platforms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/3a985c095034a69dc97c93f22a86882f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/3a985c095034a69dc97c93f22a86882f/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/083c86ff31700f261eb97bec4c324109/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/083c86ff31700f261eb97bec4c324109/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/ace72d67c0e25a868f6e0bf6551991a3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/ace72d67c0e25a868f6e0bf6551991a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/387117f4be8314babc2a3ffb8595fc18/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/387117f4be8314babc2a3ffb8595fc18/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/fddaaa5add45e27fa4975b16e1c3bde2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/fddaaa5add45e27fa4975b16e1c3bde2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/fc747de1a43ba427fad43e156722b579/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/fc747de1a43ba427fad43e156722b579/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/ed539736b2c4a82415f979c11be5c3ee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/ed539736b2c4a82415f979c11be5c3ee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/e38820f418b363a2c1d47b6af6d7e01f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/e38820f418b363a2c1d47b6af6d7e01f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/eac79697dcd56e9fd70478dad8fc79fb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/eac79697dcd56e9fd70478dad8fc79fb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/cc22feda334d594b4681ad40ddc9b737/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/cc22feda334d594b4681ad40ddc9b737/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/47e725b4a4b5b36a9f8d2a2641832657/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/47e725b4a4b5b36a9f8d2a2641832657/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/df64c1eaf8591888e201b3b24b7337f6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/df64c1eaf8591888e201b3b24b7337f6/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/b532594e7fb351b8c5e19010c14345a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/b532594e7fb351b8c5e19010c14345a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/f1338524c97ec164918545d54c15dc52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/f1338524c97ec164918545d54c15dc52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/c271773bacee3292482b10a911823824/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/c271773bacee3292482b10a911823824/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/a48b93830c95af8fbbf4f40286a01b5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/a48b93830c95af8fbbf4f40286a01b5a/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/7d9bf6eb2d1b0ff03a9fc1e766c46811/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/7d9bf6eb2d1b0ff03a9fc1e766c46811/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/dc3b5ccdbf310c1ba8db541ee2782afc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/dc3b5ccdbf310c1ba8db541ee2782afc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/2d171a86a979de240e06c8310a01a733/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/2d171a86a979de240e06c8310a01a733/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/c01f039a80889826f94ffdcdb50b7f94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/c01f039a80889826f94ffdcdb50b7f94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/b0cd644e3bde92ad29910bf3ef2e056c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/b0cd644e3bde92ad29910bf3ef2e056c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/11169166496eb52142d072678b37ecb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/11169166496eb52142d072678b37ecb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/7b33dddb674daa4d1fbdbaf7b95aca4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/7b33dddb674daa4d1fbdbaf7b95aca4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/34e1b7f951ed7bcd838e8863376d70f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/34e1b7f951ed7bcd838e8863376d70f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/ccbc5327e7497f67926b229c2cbc35c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/ccbc5327e7497f67926b229c2cbc35c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/549cd840fda21de952ec9c78a3d36be7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/549cd840fda21de952ec9c78a3d36be7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/1e103002757eb928baf29c98eda36184/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/1e103002757eb928baf29c98eda36184/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/a16b45ed712c3572c298e35c94fb948e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/a16b45ed712c3572c298e35c94fb948e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/860f07a0dd2003355a95088237fa100e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/860f07a0dd2003355a95088237fa100e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/eac63a45a0647f04a22fed4cf9c5ea91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/eac63a45a0647f04a22fed4cf9c5ea91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/b27913530de9e8883a2eaf23921b51e2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/b27913530de9e8883a2eaf23921b51e2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/76eb7ad39f4e673da3916f07ae5466c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/76eb7ad39f4e673da3916f07ae5466c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/246c55e7f9de696cf977917c1798db00/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/246c55e7f9de696cf977917c1798db00/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/e541bc8aec259dd185193354a466402f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/e541bc8aec259dd185193354a466402f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/be8ebbf524639f4a6ae96a5e738f7405/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/be8ebbf524639f4a6ae96a5e738f7405/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/42f6bfa23798fdff22253cc119802d31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/42f6bfa23798fdff22253cc119802d31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/89ffdee8c43c56c4769cc48389c875a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/89ffdee8c43c56c4769cc48389c875a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/77132f2b059876aa5043e6d33a1a7bc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/77132f2b059876aa5043e6d33a1a7bc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/ca161aa8d65a6ffd89136463cf424808/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/ca161aa8d65a6ffd89136463cf424808/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/07c341ab037f418de7fde9f9e3aacb39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/07c341ab037f418de7fde9f9e3aacb39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/001e9d70ee616d977884e5edabf01b32/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/001e9d70ee616d977884e5edabf01b32/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/fbbcba19e4f4b6856d70dfcc4533ed62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/fbbcba19e4f4b6856d70dfcc4533ed62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/6a59111c4b930a37caa3f28888ee85c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/6a59111c4b930a37caa3f28888ee85c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/12c1978948a8a9e1df73111cf9277677/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ulcom32/.gradle/caches/transforms-2/files-2.1/12c1978948a8a9e1df73111cf9277677/AndroidManifest.xml:20:5-44
+INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/ulcom32/Desktop/Work/24jan/sqlLite/android/app/src/debug/AndroidManifest.xml:5:22-75
